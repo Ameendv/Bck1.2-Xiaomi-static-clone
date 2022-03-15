@@ -1,0 +1,315 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&family=Ubuntu:wght@300&display=swap');
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #f5f5f5;
+}
+.header
+{
+    width: 1351px;
+    height: 40px;
+    background-color: #212121;
+}
+.container
+{
+    width: 1226px;
+    height: 28px;
+    margin-left: 60px;
+    padding-top: 12px;
+    
+    
+
+}
+.container-left,.container-links
+{
+    display: contents;
+    text-decoration: none;
+    width: 959px;
+    color: #757575;
+    font-size: 12px;
+    font-family: 'Fredoka', sans-serif;
+
+
+}
+.container-links:hover{
+    color: white;
+}
+.container-right
+{
+    float: right;
+    width: 274px;
+   color: white;
+   display: flex;
+   
+}
+.category
+{
+   
+    width: 1351px;
+    height: 549px;
+   
+}
+.category-inner
+{
+    margin-left: 62.5px;
+    margin-right: 62.5px;
+width: 1226px;
+height: 88px;
+position: absolute;
+background-color: transparent;
+}
+.category-logo
+{
+    float: left;
+    
+    width: 56px;
+    height: 88px;
+}
+.logo-own
+{
+    margin-top: 18px;
+}
+.category-menu
+{
+    float: left;
+    width: 1100px;
+    height: 88px;
+}
+.table1
+{
+    margin-top: 30px;
+    margin-left: 7px;
+    
+}
+.td1{
+    font-size: 14px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Fredoka', sans-serif;
+
+color: white;
+}
+tr :hover{
+    color: #fb6c3f;
+    cursor:default;
+}
+.search
+{
+    width: 255px;
+    float: left;
+   margin-left: 40px;
+    color: white;
+   
+   
+}
+.search1
+{
+    width: 220px;
+}
+.promo
+{
+    width: 1226px;
+    height: 230px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 16px;
+    background-color: #f5f5f5;
+    transition: box-shadow .2s linear;
+   
+}
+.promo :hover
+{
+    box-shadow: 0 8px 16px rgb(0 0 0 / 10%);
+}
+
+.home-middle-1
+{
+    margin-left: 63px;
+    width: 1226px;
+    height: 720px;
+  
+}
+.star-products
+{
+    width: 1018px;
+    height: 30px;
+    margin: 68px 104px 40px;
+    background-color: #f5f5f5;
+    
+}
+.fontline,.fontline2
+{
+    float: left;
+    margin-top: 16px;
+    height: 1px;
+    width: 355px;
+    background-color: #e0e0e0;
+}
+.star-products-title
+{
+
+    margin: 0px 10px;
+   float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: #616161;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.homeimg
+{
+    transition: box-shadow .2s linear;
+    float: left;
+  
+   
+}
+.homeimg :hover
+{
+    box-shadow: 0 8px 16px rgb(0 0 0 / 50%);
+}
+.home-sec
+{
+   
+    width: 1226px;
+    height: 833px;
+    margin-left: 63px;
+}
+
+.hot-accessories
+{
+    width: 1018px;
+    height: 30px;
+    margin: 68px 104px 40px;
+    background-color: #f5f5f5;
+    
+}
+
+.hot-accessories-title
+{
+
+    margin: 0px 10px;
+   float: left;
+    font-size: 30px;
+    font-weight: 300;
+    color: #616161;
+    font-family: 'Fredoka', sans-serif;
+
+}
+.hi{
+
+
+    width: 619.52px;
+    margin: -10px auto 30px;
+    height: 20px;
+    font-family: 'Fredoka', sans-serif;
+   
+    color: #757575;
+    }
+.left{
+    float: left;
+    
+}
+
+.right-img1
+{
+    margin: 0px 0px 14px 14px;
+    background-color: white;
+    float: left;
+    width: 296px;
+    height: 300px;
+    text-align: center;
+    transition: box-shadow .3s linear;
+    
+   
+}
+.right-img1:hover
+{
+   
+    box-shadow: 0 8px 16px rgb(0 0 0 / 20%);
+    
+}
+.right-img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    
+}
+
+.right-img-title
+{
+    
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Fredoka', sans-serif;
+    color: #616161;
+
+}
+a{
+    text-decoration: none;
+}
+.price{
+    color: #ff6700;
+    font-weight: 700;
+    font-size: 14px;
+    font-family:  Arial,Sans-serif;
+}
+.footer1
+{
+    background-color: #212121;
+    
+    padding-bottom: 60px;
+}
+.footer-in
+{
+    width: 1226px;
+    height: 520px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+dd{
+    margin: 0px;
+}
+dd:hover
+{
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+.span1
+{   float: left;
+    width: 200px;
+    color: #b0b0b0;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.chat{
+    margin-top: 64px;
+    display: inline-block;
+}
+
+.chat-button
+{
+    width: 160px;
+    height: 40px;
+    border: 1px solid white;
+    background-color: #212121;
+    color: white;
+    transition: background-color 0.4s;
+}
+.chat-button:hover
+{
+    background-color: white;
+    color: black;
+}
+.footer-end-container
+{
+    width: 1226px;
+    border-top: 1px solid #757575;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 70px;
+    align-items: center;
+}
